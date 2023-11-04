@@ -1,6 +1,6 @@
 ### Hi, I´m Marcelo Cañadas 👋 
-   and on social media I am known as...
-![fondo0](https://github.com/MarceloDesarrollador/MarceloDesarrollador/assets/149124004/76827d7d-5361-4368-8e9a-92bd65c4342b)
+   and on social media I am known as @marcedesarrolla
+![White Minimalist Profile LinkedIn Banner](https://github.com/MarceloDesarrollador/MarceloDesarrollador/assets/149124004/e92afde1-5289-42c5-8ef4-6da9a4278cd6)
 
 ```js
 const marcelodesarrollador = {
