@@ -1,6 +1,7 @@
 ### Hi, I´m Marcelo Cañadas 👋 
    and on social media I am known as @marcedesarrolla
-![White Minimalist Profile LinkedIn Banner](https://github.com/MarceloDesarrollador/MarceloDesarrollador/assets/149124004/e92afde1-5289-42c5-8ef4-6da9a4278cd6)
+![1699105387081](https://github.com/MarceloDesarrollador/MarceloDesarrollador/assets/149124004/6d2a5e48-0379-4b13-b85d-a2e0e1f4ded0)
+
 
 ```js
 const marcelodesarrollador = {
